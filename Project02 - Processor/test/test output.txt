@@ -1,0 +1,90 @@
+C:\Users\FIROOZAS\AppData\Local\Programs\Python\Python310\python.exe "C:\Users\FIROOZAS\OneDrive - University of South Carolina\2- GitHub\CSCE240-Advance-Programming-Techniques\Assignments\Project02\src\main.py"
+
+
+My full name is: Beth E. Bernstein
+Which consists of:
+first name: Beth
+middle name: E.
+last name: Bernstein
+
+I'm the representor of district: 78
+
+phone number: (803) 212-6940 	 and 	 (803) 799-7900
+
+home add:
+1019 Assembly St.
+Columbia 29201
+
+columbia add:
+532C Blatt Bldg.
+Columbia 29201
+
+political party: Democrat
+my county is: Richland County
+my service time: House of Representatives, 2013 - Present
+my committee assignments: Ethics, Secy. and Judiciary
+
+And finally, my personal info are stored in a list which can be accessed one at a time (as needed)
+for example: University of South Carolina, J.D., 1994
+
+or accessed as a full list
+personal info:
+1- Attorney & Partner, Bernstein and Bernstein Attorneys at Law
+2- Residing at 6181 Eastshore Drive, Columbia, SC
+3- Born November 13 in Columbia
+4- Daughter of the late Carol and Isadore Bernstein
+5- University of Georgia, B.A., 1991
+6- University of South Carolina, J.D., 1994
+7- Married to Knowlton "Rip" Sanders, 2 children, Caroline and Isabel
+8- Graduate, Leadership Columbia, 1998
+9- Junior League of Columbia, 1999-present
+10- South Carolina Philharmonic Board, 2000
+11- President, Overtures of the South Carolina Philharmonic, 2000
+12- Beth Shalom Synagogue Board of Directors, 2001-09
+13- Three Rivers Heritage and Music Foundation Board, 2002-05
+14- Executive Committee, Richland County Bar Association, 2004-10
+15- Recipient of The State's "Top 20 under 40", 2006
+16- Columbia Jewish Day School Board, 2007-09
+17- President, Richland County Bar Association, 2009
+18- Palmetto Health Foundation Cancer Center Board, 2009-present
+19- Recipient of Business Monthly's Most Influential People, 2012
+
+
+
+Welcome
+Now let's play a game
+Remember that you can just type quit or exit anytime to exit the program
+Have fun
+
+
+Tell me what you want to know?
+>> what is the full name of my district representor ?
+You requested details regarding the "full name", and I found this:
+
+Beth E. Bernstein
+
+Tell me what you want to know?
+>> wht district she is
+You requested details regarding the "district", and I found this:
+
+78
+
+Tell me what you want to know?
+>> any idea about 32rw3w48w34rwf her political party
+You requested details regarding the "political party", and I found this:
+
+Democrat
+
+Tell me what you want to know?
+>> do you know what is here weight?
+Sorry, I'm still learning. Ask my dad to teach me new stuff so I can help you :)
+
+Tell me what you want to know?
+>> who is your dad?
+My dad is Seyed Ali Firooz Abadi, you can contact him at firoozas@email.sc.edu
+
+Tell me what you want to know?
+>> exit
+Have a good day, bye
+
+Process finished with exit code 0

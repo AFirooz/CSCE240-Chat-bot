@@ -1,0 +1,40 @@
+please enter the district number you are interested in:
+78
+
+Welcome
+Now let's play a game
+Remember that you can just type quit or exit anytime to exit the program
+Have fun
+
+What do you want to know?
+what's the name of my repo
+You requested information regarding the name of your representative:
+Beth E. Bernstein
+
+What do you want to know?
+where does she live
+You requested information regarding the address of your representative:
+Home address:
+1019 Assembly St.
+Columbia 29201
+
+Columbia address:
+532C Blatt Bldg.
+Columbia 29201
+
+What do you want to know?
+gibe me phone
+You requested information regarding the phone number of your representative:
+(803) 212-6940 	 and 	 (803) 799-7900
+
+What do you want to know?
+does she swimes a lot?
+
+Sorry I couldn't understand you, please rephrase your question.
+
+
+What do you want to know?
+q
+Have a good day, bye
+
+Process finished with exit code 0

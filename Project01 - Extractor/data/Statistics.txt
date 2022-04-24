@@ -1,0 +1,4 @@
+Number of words in text file			: 214
+Number of lines in text file			: 76
+Number of characters in text file		: 1614
+Number of spaces in text file			: 160
